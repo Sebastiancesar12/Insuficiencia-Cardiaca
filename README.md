@@ -1,10 +1,12 @@
 
 
 # Nombre del proyecto
+Insuficiencia Cardiaca
 
 ## Estudiantes
-Nombres completos (en primer lugar el trabajo más, en último el que va a reprobar)
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
+Fernandez Lira Luis Abdiel, Cesar Gonzalez Sebastian, Cobos Mejia Jesus Antonio.
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212154@tectijuana.edu.mx; l21212146@tectijuana.edu.mx l21212148@tectijuana.edu.mx
+
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
@@ -18,7 +20,8 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+La insuficiencia cardíaca se caracteriza por una disminución en la capacidad del corazón para bombear sangre de manera efectiva. Esto puede deberse a una variedad de causas, como daño al músculo cardíaco, hipertensión, o enfermedades de las válvulas cardíacas. En este caso, el modelo Windkessel se verá modificado de forma que, la resistencia que se encontraba en paralelo al capacitor, pasa a estar en serie al capacitor, obteniendo el nodo de salida del voltaje entre el resistor y el capacitor. Esta modificación, representa que aumenta la carga que el corazón debe vencer para expulsar la sangre. Esto simula condiciones como la insuficiencia cardiaca, incluso la hipertensión u otras patologías, que aumentan la poscarga y pueden conducir a bradicardia como mecanismo compensatorio.
+Además, esto representa una disminución de la distensibilidad, lo que dificulta el llenado ventricular y puede contribuir a la insuficiencia cardiaca. En sí, modificar de esta manera el modelo ayuda a simular condiciones que afectan al flujo sanguineo del corazon.
 
 ## Referencias principales
 [1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
