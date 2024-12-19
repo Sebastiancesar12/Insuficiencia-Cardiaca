@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Sebastiancesar12/Insuficiencia-Cardiaca)
 
-# Nombre del proyecto
-Insuficiencia Cardiaca
+#  Insuficiencia Cardiaca
+
 
 ## Estudiantes
 Fernandez Lira Luis Abdiel, Cesar Gonzalez Sebastian, Cobos Mejia Jesus Antonio.
@@ -24,9 +24,9 @@ La insuficiencia cardíaca se caracteriza por una disminución en la capacidad d
 Además, esto representa una disminución de la distensibilidad, lo que dificulta el llenado ventricular y puede contribuir a la insuficiencia cardiaca. En sí, modificar de esta manera el modelo ayuda a simular condiciones que afectan al flujo sanguineo del corazon.
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1]J. M. Montero-Cabezas, "Tratamiento de la miocarditis y sus complicaciones," Cardiocore, vol. 47, no. 4, pp. 147–150, 2012.
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
+[2] G. A. Hernández, "Bradicardia sintomática y uso de marcapasos en el servicio de urgencias," Revista de la Facultad de Medicina, vol. 55, no. 3, pp. 191-209, 2007. 
 
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
+
 
